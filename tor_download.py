@@ -1,4 +1,4 @@
-# Replace "link" value with the downoald link from the tor site, and "file name" value with the name you want the file to be called on your computer
+# Replace "link" value with the download link from the tor site, and "file name" value with the name you want the file to be called on your computer
 # Instantiate scraper with cloudscraper to bypass cloudflare protections, check to make sure safety protocols are active, download file with status bar
 
 import json
